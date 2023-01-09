@@ -3,7 +3,7 @@
 
 <p>I love programming, being able to solve challenges and being able to see an idea come true through the code we write seems wonderful to me.</p>
 
-<img href="![yo2](https://user-images.githubusercontent.com/76663591/211278194-1a19a8ff-a104-4c09-aa36-097654005e04.jpg)">
+<img src="![yo2](https://user-images.githubusercontent.com/76663591/211278194-1a19a8ff-a104-4c09-aa36-097654005e04.jpg)">
 
 - 📫 How to reach me **ecer1996@gmail.com**
 
