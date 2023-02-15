@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Edwin Cervantes</h1>
-<h3 align="center">Im a Jr Full Stack Developer  </h3>
+<h3 align="center">Im A Web Developer</h3>
 
 <p>I love programming, being able to solve challenges and being able to see an idea come true through the code we write seems wonderful to me.</p>
 
